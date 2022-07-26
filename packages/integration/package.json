@@ -1,0 +1,19 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "@vue-mono-repo/admin": "^0.0.0",
+    "@vue-mono-repo/user": "^0.0.0",
+    "@vue-mono-repo/consumer": "^0.0.0"
+  }
+}
